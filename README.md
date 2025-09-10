@@ -22,7 +22,7 @@ Aspiring **Programmer → Entrepreneur** | Exploring **AI, Web, and Finance**
 ---
 
 ## 🌐 Connect
-📫 Email: **happilyfly@naver.com**
+📫 Email: **happilyfly@naver.com**  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=githubpages)](https://cosmicpotato2047.github.io)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/chanhee-lee-026939355/)  
 
