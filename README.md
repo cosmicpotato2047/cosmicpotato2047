@@ -28,4 +28,4 @@ Aspiring **Programmer → Entrepreneur** | Exploring **AI, Web, and Finance**
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cosmicpotato2047)
+![Profile views](https://komarev.com/ghpvc/?username=cosmicpotato2047&label=Profile%20views&color=0e75b6&style=flat)
