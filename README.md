@@ -14,17 +14,17 @@ Aspiring **Programmer → Entrepreneur** | Exploring **AI, Web, and Finance**
 
 ---
 
-## 🌐 Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=githubpages)](https://cosmicpotato2047.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/chanhee-lee-026939355/)  
-📫 Email: **happilyfly@naver.com**
-
----
-
 ## 📊 GitHub Stats
 ![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmicpotato2047&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicpotato2047&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+📫 Email: **happilyfly@naver.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=githubpages)](https://cosmicpotato2047.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/chanhee-lee-026939355/)  
 
 ---
 
